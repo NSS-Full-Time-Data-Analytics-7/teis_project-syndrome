@@ -48,3 +48,7 @@ Some additional information that you might need for this project is below.
 
 * County SES: County Socioeconomic Status is based on the Appalachian Regional Commission's county economic status index. See https://www.tn.gov/transparenttn/state-financial-overview/open-ecd/openecd/tnecd-performance-metrics/openecd-long-term-objectives-quick-stats/distressed-counties.html. 
 
+
+##TEAM PROJECT
+##TEAM NAME: Syndrome
+##TEAM MEMBERS: Austin Davis, Lauren Della Russo, Martin Melgar & Rodney Coleman
